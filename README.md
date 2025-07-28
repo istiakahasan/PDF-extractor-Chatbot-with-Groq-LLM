@@ -10,6 +10,8 @@ cd pdf-ocr-chatbot
 source venv/bin/activate     # macOS/Linux
 venv\Scripts\activate        # Windows
 
+
+
 #Install Dependencies
 pip install -r requirements.txt
 
@@ -18,6 +20,8 @@ pip install -r requirements.txt
 
 GROQ_API_KEY = "your_groq_api_key"
 POPPLER_PATH = r"C:\path\to\poppler\bin"
+
+
 
 #Run the FastAPI Server
 uvicorn app:app --reload
