@@ -6,25 +6,25 @@ cd pdf-ocr-chatbot
 
 # (Optional) Set Up a Virtual Environment
 
- python -m venv venv
-source venv/bin/activate     # macOS/Linux
-venv\Scripts\activate        # Windows
+# python -m venv venv
+#source venv/bin/activate     # macOS/Linux
+#venv\Scripts\activate        # Windows
 
 
 
 #Install Dependencies
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
 
 #Configure API Keys and Paths
 
-GROQ_API_KEY = "your_groq_api_key"
-POPPLER_PATH = r"C:\path\to\poppler\bin"
+#GROQ_API_KEY = "your_groq_api_key"
+#POPPLER_PATH = r"C:\path\to\poppler\bin"
 
 
 
 #Run the FastAPI Server
-uvicorn app:app --reload
+#uvicorn app:app --reload
 
 
 
