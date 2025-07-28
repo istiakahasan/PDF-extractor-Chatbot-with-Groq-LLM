@@ -1,0 +1,110 @@
+
+
+--- Page 1 ---
+. +88 01308886607
+Istia k Ahasan istiakahasan42@gmail.com
+
+LinkedIn
+
+Github Profile
+
+Bashundhara R/A, Dhaka,
+
+PROFILE SUMMARY: Bangladesh
+
+Passionate Frontend Developer focused on crafting high-performance, scalable web applications. Proficient in
+modern front-end technologies and integrating Machine Learning. Adept at solving complex problems and bridging
+
+communication between technical and non-technical teams.
+
+SKILLS:
+
+Expertise Python, HTML, CSS, JavaScript, SQL,pandas,numpy
+
+Comfortable Node.Js,java.
+
+Tools GitHub, VS Code, Netlify, Vercel, Chrome Dev Tools, jupiter notebook,google collab.
+PROJECTS:
+Todo App-—This React application functions as a "Todo App" that allows Github Server-Client
+
+users to manage tasks. It maintains a list of todos, each
+
+identified by a unique ID and containing a title and description.
+@ Adding Todos: Users can input a title and description for a new todo using a dedicated form.
+@ Displaying Todos: The application presents the entire list of todos by rendering each individual todo item.
+@ Deletism to remove it. When this removal action is triggered, the application updates its internal list by filtering out
+theng Todos: Each displayed todo includes a mechani specified todo, resulting in the item no longer being
+
+displayed.
+
+Technology Used - HTML, CSS, JavaScript (React.js), focusing on a responsive user friendly interface.Here the project is
+
+mainly based react.
+
+Manage Country List- Display and manages the list of country. Github Server- Client
+
+@ Data Fetching: The application fetches country data from an external API when it first loads.It manages the loading
+state and any potential errors during this process.
+
+@ Country Display: The fetched countries are displayed as a grid. Each country card shows its flag, name, population,
+capital, and area.
+
+@ Country Removal: Users can remove individual countries from the displayed list by clicking a "Remove Country"
+button on each country card. This action updates the displayed list of countries.-
+
+@ = Search Functionality: A search bar allows users to filter the displayed countries. As the user types, the list of
+
+countries is dynamically updated to show only those whose names start with the entered text.
+
+Technology Used - React js ,html, CSS and javascript for responsiveness.
+
+Brain Image Classification using Deep Learning - Github Server - Client
+It involves building and training a Convolutional Neural Network (CNN) to categorize brain images.
+@ Data Processing: Images are resized and normalized for optimal model training.
+
+@ Model Development: A multi-layered CNN architecture is designed, incorporating convolutional, pooling, and dense
+layers for effective feature extraction and classification.
+
+@ Training & Evaluation: The model is trained and rigorously evaluated to ensure high accuracy in classifying brain
+
+images,
+
+
+--- Page 2 ---
+Technology Used - Python, TensorFlow (Keras), scikit-learn, and various data manipulation and visualization libraries
+such as NumPy, Pandas, Matplotlib, and Seaborn.
+
+Relevant Expertise
+
+NSU HCI Design Inclusion and Access Lab
+
+@ = Research Assistant | August 2023 - January 2024
+
+As a Research Assistant at HCI DIAL, my team and | contributed to projects focused on
+
+refining user interfaces and enhancing user experience.
+
+@ | was actively involved in user studies and assisted in mental health(depression) detection from social media. We were
+scrapping data from social media from India and as well as Bangladesh.then we were using NLP for detecting the
+depression and find out the which person is suffering from depression or not.
+
+NSU ACM Student Chapter
+Member | 2020 - 2023
+As a committed member
+
+@ As acommitted member of the ACM student chapter, | collaborated with my teammates to organize and promote
+engaging seminars . | helped my fellow volunteers to enhance outreach initiatives , ensuring that participants had a
+
+successful and informative experience.
+
+Nobokiron Foundation
+As one of the founding member
+@ =| work with this organization dedicated to addressing humanitarian needs.
+Our mission is to support vulnerable communities through education, healthcare, and relief efforts.
+
+We strive to create lasting impact and improve lives with compassion and integrity.
+
+EDUCATION:
+
+Bachelor of Science in CSE
+North South University
