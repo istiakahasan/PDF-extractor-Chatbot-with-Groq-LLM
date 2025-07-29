@@ -41,6 +41,12 @@ cd pdf-ocr-chatbot
 | `requests`           | To call Groq's API                              | Fetch answers from LLM           |
 
 
+##command for downloading all dependencies:
+pip install fastapi uvicorn pydantic pdf2image pytesseract python-dotenv requests
+
+
+ 
+
 
 | 🧰 Tool              | 📝 Description                                  | 🔗 Download Link                                               |
 |----------------------|--------------------------------------------------|----------------------------------------------------------------|
